@@ -57,7 +57,6 @@ Las muestras sirven para probar integración e interfaz. Los equipos deberán se
 - [Presentación final de AmbientIA en PowerPoint](AmbientIA_CoAfina_Final.pptx)
 - [Guía de datos y respaldo en Word](AmbientIA_Kit_de_Datos_y_Respaldo.docx)
 - [Imagen de cierre con los tres países](imagenes/cierre_colombia_venezuela_argentina.png)
-- [Texto para compartir en Discord](MENSAJE_DISCORD.txt)
 
 ## Herramientas posibles
 

@@ -1,0 +1,11 @@
+Ejemplo preparado y no ejecutado. Cambiar la caja pequeña según el territorio. No lanzar consulta continental. Datos ODbL.
+https://overpass-turbo.eu/
+
+[out:json][timeout:25];
+(
+ nwr[landuse=landfill](-32.2,-64.9,-32.0,-64.6);
+ nwr[amenity=recycling](-32.2,-64.9,-32.0,-64.6);
+);
+out center tags;
+
+Ausencia de resultados no implica ausencia de residuos.

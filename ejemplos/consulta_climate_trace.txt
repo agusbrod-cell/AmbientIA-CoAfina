@@ -1,0 +1,3 @@
+Consulta comprobada el 22 de noviembre de 2026. Tres registros, no inventario completo.
+https://api.climatetrace.org/v7/sources?year=2024&subsectors=solid-waste-disposal&gadmId=ARG&limit=3
+Cambiar ARG por ECU, COL, DOM o CUB. API beta: usar copia local ante fallo.

@@ -1,0 +1,132 @@
+[
+  {
+    "url": "https://download.geonames.org/export/dump/cities500.zip",
+    "status": 200,
+    "archivo": "datos/localidades_latam_caribe_geonames.csv",
+    "bytes": 2867419,
+    "sha256": "6bd96363d9676168f554b8123b6a1a9e0c16f3b8ab81fb1584ceae9782235a4a",
+    "transformacion": "Filtrado por lista explícita de códigos y selección de columnas. No límites municipales ni población actual validada.",
+    "registros": 32871,
+    "fecha_utc": "2026-11-22T17:46:43.834496+00:00"
+  },
+  {
+    "url": "https://naturalearth.s3.amazonaws.com/110m_cultural/ne_110m_admin_0_countries.zip",
+    "status": 200,
+    "bytes": 214976,
+    "sha256": "0f243aeac8ac6cf26f0417285b0bd33ac47f1b5bdb719fd3e0df37d03ea37110",
+    "archivo": "datos/NaturalEarth_paises_110m.zip",
+    "fecha_utc": "2026-11-22T17:46:48.617843+00:00"
+  },
+  {
+    "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_POP_GLOBE_R2023A/copyright.txt",
+    "status": 200,
+    "bytes": 540,
+    "sha256": "f20723519a580fb35b3499870f0b1baea54f483195105416e547f0014f1610d2",
+    "archivo": "licencias/GHS_POP_copyright.txt",
+    "fecha_utc": "2026-11-22T17:46:49.069171+00:00"
+  },
+  {
+    "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/copyright.txt",
+    "status": 200,
+    "bytes": 540,
+    "sha256": "f20723519a580fb35b3499870f0b1baea54f483195105416e547f0014f1610d2",
+    "archivo": "licencias/GHS_BUILT_S_copyright.txt",
+    "fecha_utc": "2026-11-22T17:46:49.086897+00:00"
+  },
+  {
+    "url": "https://download.geonames.org/export/dump/readme.txt",
+    "status": 200,
+    "bytes": 8843,
+    "sha256": "b1957379b6c1242c700c98ac9a8aa0a09f56c3c0a50ee72175527005f48ef2c5",
+    "archivo": "licencias/GeoNames_README.txt",
+    "fecha_utc": "2026-11-22T17:46:49.601328+00:00"
+  },
+  {
+    "url": "https://api.climatetrace.org/v7/sources?year=2024&subsectors=solid-waste-disposal&gadmId=ARG&limit=3",
+    "status": 200,
+    "bytes": 1667,
+    "sha256": "93cfdded47fbef094ba4625dc7e9c10ebf45f685ae33b289937ea8930a7019f1",
+    "archivo": "datos/climate_trace_ARG_2024_muestra.json",
+    "fecha_utc": "2026-11-22T17:46:54.746308+00:00"
+  },
+  {
+    "url": "https://api.climatetrace.org/v7/sources?year=2024&subsectors=solid-waste-disposal&gadmId=ECU&limit=3",
+    "status": 200,
+    "bytes": 1639,
+    "sha256": "4fbeb16d69dc069b9ce0d7117e771572dd4f34bc639d2bbd9abbe071b6f7488f",
+    "archivo": "datos/climate_trace_ECU_2024_muestra.json",
+    "fecha_utc": "2026-11-22T17:46:59.649700+00:00"
+  },
+  {
+    "url": "https://api.climatetrace.org/v7/sources?year=2024&subsectors=solid-waste-disposal&gadmId=COL&limit=3",
+    "status": 200,
+    "bytes": 1660,
+    "sha256": "bea75b19da2a62a89ba98946b302f5cea857de50bd51c5d836807217ea624dac",
+    "archivo": "datos/climate_trace_COL_2024_muestra.json",
+    "fecha_utc": "2026-11-22T17:47:04.573519+00:00"
+  },
+  {
+    "url": "https://api.climatetrace.org/v7/sources?year=2024&subsectors=solid-waste-disposal&gadmId=DOM&limit=3",
+    "status": 200,
+    "bytes": 1685,
+    "sha256": "abf8a0a3b3f330f33411d20d26216cdfc157b5c6fe8f91734439570bb1623ad0",
+    "archivo": "datos/climate_trace_DOM_2024_muestra.json",
+    "fecha_utc": "2026-11-22T17:47:09.655921+00:00"
+  },
+  {
+    "url": "https://api.climatetrace.org/v7/sources?year=2024&subsectors=solid-waste-disposal&gadmId=CUB&limit=3",
+    "status": 200,
+    "bytes": 1679,
+    "sha256": "76e9701403def1bec3dfcabc111480eec6dc51988b8c2b277f0a6de4b4446069",
+    "archivo": "datos/climate_trace_CUB_2024_muestra.json",
+    "fecha_utc": "2026-11-22T17:47:14.509958+00:00"
+  },
+  {
+    "url": "https://www.geoboundaries.org/api/current/gbOpen/ARG/ADM1/",
+    "status": 200,
+    "bytes": 1719,
+    "sha256": "21ddf91e5d2805dd87c89f2d47876199dcc2e62289ab74f714ac71ba5098997e",
+    "archivo": "documentacion/geoBoundaries_ARG_ADM1_metadatos.json",
+    "fecha_utc": "2026-11-22T17:47:20.343052+00:00"
+  },
+  {
+    "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARG/ADM1/geoBoundaries-ARG-ADM1_simplified.geojson",
+    "status": 200,
+    "bytes": 184074,
+    "sha256": "7cc9b00ba139e57f59611993d96d07eb84d955ed5bd6bd6f1dcb864e1baf549c",
+    "archivo": "datos/geoBoundaries_ARG_ADM1_simplificado.geojson",
+    "fecha_utc": "2026-11-22T17:47:32.357906+00:00"
+  },
+  {
+    "url": "https://www.geoboundaries.org/api/current/gbOpen/ECU/ADM1/",
+    "status": 200,
+    "bytes": 1746,
+    "sha256": "132f2db21aada75181407d9053d66de0f489d5e728985a8edffdef476293dd6b",
+    "archivo": "documentacion/geoBoundaries_ECU_ADM1_metadatos.json",
+    "fecha_utc": "2026-11-22T17:47:38.544288+00:00"
+  },
+  {
+    "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ECU/ADM1/geoBoundaries-ECU-ADM1_simplified.geojson",
+    "status": 200,
+    "bytes": 410945,
+    "sha256": "ddab55b98606edc09fe603eaf88e6205533fffd496d85c2dee03e345aed33c95",
+    "archivo": "datos/geoBoundaries_ECU_ADM1_simplificado.geojson",
+    "fecha_utc": "2026-11-22T17:47:48.946486+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/7254221",
+    "status": 200,
+    "bytes": 11633,
+    "sha256": "d9a97eba1bdd5592c709167f5cc1c4adec8b73f91b7b6c4cb6784fd882025bd0",
+    "archivo": "licencias/WorldCover_metadata.json",
+    "fecha_utc": "2026-11-22T17:50:09.918020+00:00"
+  },
+  {
+    "url": "https://api.figshare.com/v2/articles/9890531",
+    "status": 200,
+    "bytes": 7212,
+    "sha256": "87ed43e0dd02e6fba1228566878b17e1ad35d9a903f1ef4d26eb9dc2a9a45e38",
+    "archivo": "licencias/HydroATLAS_metadata.json",
+    "fecha_utc": "2026-11-22T17:50:15.334487+00:00"
+  }
+]

@@ -81,6 +81,8 @@ Las imágenes de presentación y los logos no se ofrecen como recursos con licen
 
 ## Colaboración
 
+**Mi usuario de Discord es `agusb_rod`.** Me encontrás en el canal del reto AmbientIA y en los espacios de cada equipo habilitados por CoAfina.
+
 Para dudas sobre el reto y acompañamiento durante el evento, usá el canal habilitado por CoAfina en Discord. Para señalar un enlace caído o proponer un recurso, abrí un Issue con la URL, fecha del problema y alternativa, si la conocés. Leé [cómo contribuir](CONTRIBUTING.md).
 
 **Detrás de cada dato hay una comunidad. Que cada conexión permita comprender mejor el territorio y abrir nuevas conversaciones entre quienes lo habitan.**

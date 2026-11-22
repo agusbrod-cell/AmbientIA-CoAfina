@@ -8,7 +8,11 @@
 
 AmbientIA propone descubrir afinidades ambientales entre comunidades de **América Latina y el Caribe** a partir de datos abiertos. Una comunidad argentina y otra ecuatoriana pueden compartir características de sus cuencas, transformaciones del paisaje o presiones ambientales. El reto es encontrar esas conexiones y explicar también sus diferencias y los datos que faltan.
 
-Reto propuesto por **Agustina Berenice Rodríguez, Directora de Ambiente de la Municipalidad de Villa Yacanto de Calamuchita, Córdoba, Argentina**, para el Hackathon Latinoamericano de Datos Abiertos CoAfina 2026.
+¡Hola! **Soy Agus Rodríguez**, Técnica Superior en Biotecnología, con formación orientada a la biorremediación, y actualmente soy **Directora de Ambiente de la Municipalidad de Villa Yacanto de Calamuchita, Córdoba, Argentina**. También soy docente en una escuela técnica, donde acompaño a jóvenes a vincular lo que aprenden con problemas reales de nuestra sociedad.
+
+En mi trabajo cotidiano me dedico especialmente a la gestión de residuos y me apoyo en el mapeo y la georreferenciación para comprender mejor nuestro territorio. Trabajar en un pueblo con un ejido extenso y una logística compleja me lleva a preguntarme cuántas comunidades de Latinoamérica y el Caribe estarán buscando respuestas a desafíos parecidos, sin saber unas de otras.
+
+**De esa inquietud nace AmbientIA.** Propongo este reto en CoAfina 2026 porque me entusiasma acercar la tecnología y los datos abiertos a las realidades de nuestros pueblos. Quiero que quienes participan puedan poner sus conocimientos al servicio de esas comunidades y descubrir conexiones que abran oportunidades para aprender e intercambiar experiencias. Desde mi lugar, busco unir ambiente y educación para que más personas se animen a ser parte del cambio en los territorios que habitan.
 
 Este repositorio reúne la propuesta, fuentes, licencias y material de apoyo para los equipos. **No contiene una solución terminada ni un dataset ambiental integral ya procesado.**
 
